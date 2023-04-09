@@ -63,6 +63,7 @@ pnordboj
 - [TrueJu](https://github.com/TrueJu)
 - [bananahair](https://github.com/bananahair)
 - [Jomar Cardoza](https://github.com/jmrc1995)
+[aditya Prakash](https://github.com/adityaprakash707)
 - [Artyom Amiryan](https://github.com/Artyom22)
 - [Suraj Mhatre](https://github.com/suraj-py)
 - [Gokul Narayanan](https://github.com/Gokul-0hno)
